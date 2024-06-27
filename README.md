@@ -3,7 +3,7 @@
 2. install tailwind inside the project using frame work guides
 
 ## NETFLIX-GPT
-1. Features
+# 1. Features
   - Login/Sign up
   - sign in - Form
   -redirect to browser page
@@ -15,7 +15,7 @@
      - movies suggestion scrollable
      - movie suggestion list
 
-2. Netflix - gpt
+# 2. Netflix - gpt
    - Search bar 
    - Movies suggestion
 
