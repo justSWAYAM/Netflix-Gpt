@@ -6,7 +6,8 @@
 # 1. Features
   - Login/Sign up
   - sign in - Form
-  -redirect to browser page
+  - redirect to browser page
+  - useRef 
 
 - Browse(after authentication)
   - Header
