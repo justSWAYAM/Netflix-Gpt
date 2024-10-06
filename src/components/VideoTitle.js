@@ -3,7 +3,7 @@ import { hover } from "@testing-library/user-event/dist/hover";
 
  const VideoTitle = ({title,overview}) => {
   return (
-    <div className="pt-[1%]  px-12 absolute text-white bg-gradient-to-r from-black w-auto  aspect-video ">
+    <div className="pt-[1%]  px-12 absolute text-white bg-gradient-to-r from-black w-screen  aspect-video ">
    <div  className="mt-[8%] mb-10 pb-5">
     <h1 className="text-5xl font-extrabold pb-5">{title}</h1>
     <p className="w-1/2">{overview}</p>
