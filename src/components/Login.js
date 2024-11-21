@@ -87,7 +87,7 @@ const Login = () => {
   return (
     <div>
     <Header />
-    <div className=' bg-gradient-to-b from-black absolute w-screen h-full'>
+    <div className=' bg-gradient-to-b from-black absolute w-screen h-screen'>
 
     <img src='https://assets.nflxext.com/ffe/siteui/vlv3/1fd8c6d0-20db-4667-860e-dd1ad7353ac0/10f8d166-7c8c-499a-b16f-57c3740cdeae/IN-en-20240624-popsignuptwoweeks-perspective_alpha_website_large.jpg'
     alt='banner' className='w-full ' />
